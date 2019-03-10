@@ -1,0 +1,356 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"next",
+				"next_page_url"
+			],
+			[
+				"ex",
+				"extract_first"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"In",
+				"Insert"
+			],
+			[
+				"r",
+				"rootidx-s2"
+			],
+			[
+				"str",
+				"str1"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"month",
+				"Month"
+			],
+			[
+				"min",
+				"minAge"
+			],
+			[
+				"max",
+				"maxAge"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"int",
+				"int_pinyin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pcic",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Add Channel"
+			],
+			[
+				"PCIC",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 565.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = <span class=\"hljs-string\">'7183a2d3e96f11eeadd761d777e62404' + <span class=\"hljs-string\">'e330c659d4bb41d3bdf022e94cab3cd0'; pf = <span class=\"hljs-string\">'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); <span class=\"hljs-keyword\">by = urllib.request.urlopen( <span class=\"hljs-string\">'http://sublime.wbond.net/' + pf.replace(<span class=\"hljs-string\">' ', <span class=\"hljs-string\">'%20')).read(); dh = hashlib.sha256(<span class=\"hljs-keyword\">by).hexdigest(); <span class=\"hljs-built_in\">print(<span class=\"hljs-string\">'Error validating download (got %s instead of %s), please try manual install' % (dh, h)) <span class=\"hljs-keyword\">if dh != h <span class=\"hljs-keyword\">else open(os.path.join( ipp, pf), <span class=\"hljs-string\">'wb' ).write(<span class=\"hljs-keyword\">by)</span></span></span></span></span></span></span></span></span></span></span></span></span></span>",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/cyndi/Desktop/python学习/爬虫文档/ToScrapeSpiderXPath.py",
+		"/C/Users/cyndi/Desktop/python学习/爬虫文档/quotes_spider.py",
+		"/C/Users/cyndi/Desktop/python学习/爬虫文档/爬取简书专题文章标题.py",
+		"/C/Users/cyndi/Desktop/python学习/爬虫文档/爬取简书首页热门文章标题信息.py",
+		"/C/Users/cyndi/Desktop/python学习/爬虫文档/webcrawlermetu.py",
+		"/C/Users/cyndi/Desktop/python学习/爬虫文档/webcrawlermetu",
+		"/C/Users/cyndi/Desktop/20181007修正",
+		"/C/Users/cyndi/Desktop/20181004修正",
+		"/C/Users/cyndi/Desktop/src/Louvain.py",
+		"/C/Users/cyndi/Desktop/src/RandomWalk.py",
+		"/C/Users/cyndi/Desktop/src/main.py",
+		"/C/Users/cyndi/Desktop/src/common.py",
+		"/C/Users/cyndi/Desktop/保研/自步学习/自步学习/demo_leaves_spl.m",
+		"/C/Users/cyndi/Desktop/.err",
+		"/C/Users/cyndi/Desktop/test2.dyd",
+		"/C/Users/cyndi/Desktop/test.err",
+		"/E/微博爬虫/weibo/__init__.py",
+		"/C/Users/cyndi/Desktop/test.pro",
+		"/C/Users/cyndi/Desktop/test.var",
+		"/C/Users/cyndi/Desktop/test.dyd",
+		"/C/Users/cyndi/Desktop/program.err",
+		"/C/Users/cyndi/Desktop/program.dyd",
+		"/C/Users/cyndi/Desktop/test.dys",
+		"/C/Users/cyndi/Desktop/保研/机试书本/chapter 2/2-2.c",
+		"/C/Users/cyndi/Desktop/保研/机试书本/chapter4/5-3.C",
+		"/C/Users/cyndi/Desktop/成都七中汇总/成七作业-2018-11/肖立轩.m",
+		"/C/Users/cyndi/Desktop/成都七中汇总/成七作业-2018-12/段哲凯.png",
+		"/C/Users/cyndi/Desktop/2018-5-7-23.39",
+		"/C/Users/cyndi/Desktop/自步学习/未命名文件夹/spl.m",
+		"/C/Users/cyndi/Desktop/机试书本/chapter4/5-2.c",
+		"/C/Users/cyndi/Desktop/机试书本/chapter4/5-1.c",
+		"/C/Users/cyndi/Desktop/机试书本/chapter4/4-5.c",
+		"/C/Users/cyndi/Desktop/机试书本/chapter4/4-7.c",
+		"/C/Users/cyndi/Desktop/机试书本/chapter4/4-11.c",
+		"/C/Users/cyndi/Desktop/机试书本/chapter4/4-9.c",
+		"/C/Users/cyndi/Desktop/机试书本/chapter4/4-3.c",
+		"/C/Users/cyndi/Desktop/机试书本/chapter4/4-4.c",
+		"/C/Users/cyndi/Desktop/自步学习/SMTMVC/SMTMVC2/demo_webKB.m",
+		"/C/Users/cyndi/Desktop/自步学习/SMTMVC/SMTMVC2/MTMVNMF.m",
+		"/C/Users/cyndi/Desktop/自步学习/SMTMVC/SMTMVC2/proc2.m",
+		"/C/Users/cyndi/Desktop/机试书本/3-4.c",
+		"/C/Users/cyndi/Desktop/机试书本/4-1.c",
+		"/C/Users/cyndi/Desktop/机试书本/chapter 3/3-5.cpp",
+		"/C/Users/cyndi/Desktop/编译原理田玲/lexAnalyze.c",
+		"/C/Users/cyndi/Desktop/机试书本/chapter 2/2.1.c",
+		"/C/Users/cyndi/Desktop/机试书本/chapter 3/3-4.c",
+		"/C/Users/cyndi/Desktop/机试书本/2-15.c",
+		"/C/Users/cyndi/Desktop/机试书本/2-16.c",
+		"/C/Users/cyndi/Desktop/自步学习/未命名文件夹/第一次实验结果.mat",
+		"/C/Users/cyndi/Desktop/机试书本/2-14.c",
+		"/C/Users/cyndi/Desktop/机试书本/2-13.c",
+		"/C/Users/cyndi/Desktop/机试书本/2-12.c",
+		"/C/Users/cyndi/Desktop/机试书本/2-9.c",
+		"/C/Users/cyndi/Desktop/机试书本/2-10.c",
+		"/C/Users/cyndi/Desktop/机试书本/2-11.c",
+		"/C/Users/cyndi/Desktop/自步学习/未命名文件夹/demo_webKB.m",
+		"/C/Users/cyndi/Desktop/demo_webKB.m",
+		"/C/Users/cyndi/Desktop/自步学习/SMTMVC/SMTMVC/demo_webKB.m",
+		"/C/Users/cyndi/Desktop/spl.m",
+		"/C/Users/cyndi/Desktop/10.1007%2F978-3-319-70087-8.pdf.crdownload",
+		"/C/Users/cyndi/Desktop/机试书本/2-11c",
+		"/C/Users/cyndi/Desktop/机试书本/2-6.c",
+		"/C/Users/cyndi/Desktop/机试书本/2-8.c",
+		"/C/Users/cyndi/Desktop/机试书本/2-7.c",
+		"/C/Users/cyndi/Desktop/机试书本/2-5.c",
+		"/C/Users/cyndi/Desktop/机试书本/2-4.c",
+		"/C/Users/cyndi/Desktop/机试书本/2-2.c",
+		"/C/Users/cyndi/Desktop/机试书本/2-3.c",
+		"/C/Users/cyndi/Desktop/机试书本/2.1.c",
+		"/C/Users/cyndi/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-build",
+		"/C/Users/cyndi/Desktop/lexAnalyze.c",
+		"/C/Users/cyndi/Desktop/RDP.c",
+		"/C/Users/cyndi/Desktop/Pipe2.c",
+		"/C/Users/cyndi/Desktop/操作系统实验1/PC.c",
+		"/C/Users/cyndi/Desktop/操作系统实验1/server.c",
+		"/C/Users/cyndi/Desktop/操作系统实验1/client.c",
+		"/C/Users/cyndi/Desktop/操作系统实验1/pipe.c",
+		"/C/Users/cyndi/Desktop/1029.c",
+		"/C/Users/cyndi/Desktop/1028.c",
+		"/C/Users/cyndi/Desktop/1027.c",
+		"/C/Users/cyndi/Desktop/1026.c",
+		"/C/Users/cyndi/Desktop/1025.c",
+		"/C/Users/cyndi/Desktop/exper2.asm",
+		"/C/Users/cyndi/Desktop/exper22.asm",
+		"/C/Users/cyndi/Desktop/proc2.m",
+		"/C/Users/cyndi/Desktop/自步学习/SMTMVC/SMTMVC/demo_leaves.m",
+		"/C/Users/cyndi/Desktop/demo_leaves.m",
+		"/C/Users/cyndi/Desktop/1024.c",
+		"/C/Users/cyndi/Desktop/1023.c",
+		"/C/Users/cyndi/Desktop/1022.c",
+		"/C/Users/cyndi/Desktop/pat乙题/1020.c",
+		"/C/Users/cyndi/Desktop/1021.c",
+		"/C/Users/cyndi/Desktop/1021,c",
+		"/C/Users/cyndi/Desktop/1020.c",
+		"/C/Users/cyndi/Desktop/1015.c",
+		"/C/Users/cyndi/Desktop/1019.c",
+		"/C/Users/cyndi/Desktop/1018.c",
+		"/C/Users/cyndi/Desktop/1017.c",
+		"/C/Users/cyndi/Desktop/1016.c",
+		"/C/Users/cyndi/Desktop/1013.c",
+		"/C/Users/cyndi/Desktop/1014.c",
+		"/C/Users/cyndi/Desktop/1011.c",
+		"/C/Users/cyndi/Desktop/1012.c",
+		"/C/Users/cyndi/Desktop/1010.c",
+		"/C/Users/cyndi/Desktop/1009.c",
+		"/C/Users/cyndi/Desktop/1008.c",
+		"/C/Users/cyndi/Desktop/1007.c",
+		"/C/Users/cyndi/Desktop/1006.c",
+		"/C/Users/cyndi/Desktop/1002.c",
+		"/C/Users/cyndi/Desktop/1005.c",
+		"/C/Users/cyndi/Desktop/1005(2).c",
+		"/C/Users/cyndi/Desktop/1004.c",
+		"/C/Users/cyndi/Desktop/1004(2).c",
+		"/C/Users/cyndi/Desktop/1003(2).c",
+		"/C/Users/cyndi/Desktop/1003.c",
+		"/C/Users/cyndi/Desktop/1001.c",
+		"/C/Users/cyndi/Desktop/client.c",
+		"/C/Users/cyndi/Desktop/server.c",
+		"/C/Users/cyndi/Desktop/pipe",
+		"/C/Users/cyndi/Desktop/PC.c",
+		"/C/Program Files (x86)/VMware/VMware VIX/vixwrapper-config.txt",
+		"/C/Users/cyndi/Desktop/son.sh",
+		"/C/Users/cyndi/Desktop/father.sh",
+		"/D/新建文件夹/Ubuntu 64 位.vmx",
+		"/D/vmware/ico/config.ico"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "jianshu1.py",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
